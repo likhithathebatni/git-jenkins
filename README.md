@@ -1,2 +1,2 @@
 # git-jenkins
-testing
+test
